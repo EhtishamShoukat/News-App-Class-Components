@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "totalResults": 86,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Vicky Ge Huang",
+    "title": "Coinbase Gets NFA Approval to Offer Crypto Futures",
+    "description": "Cisco and Target are among companies reporting results Wednesday",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-16-2023",
+    "urlToImage": "https://images.wsj.net/im-836261/social",
+    "publishedAt": "2023-08-16T10:00:00Z",
+    "content": "Coinbase Global has earned approval from the National Futures Association to offer eligible U.S. customers crypto futures, the company said Wednesday.\r\nThe largest crypto exchange in the U.S. in Sept… [+469 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Gina Heeb",
+    "title": "Discover Stock Drops After CEO's Exit",
+    "description": "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite.",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-15-2023",
+    "urlToImage": "https://images.wsj.net/im-835879?width=600",
+    "publishedAt": "2023-08-15T15:15:00Z",
+    "content": "Discover Financial shares dropped 9% Tuesday after the Riverwoods-Ill.-based company said Roger Hochschild would step down as CEO effective immediately.\r\nDiscover board member and ex-Regions Financia… [+457 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Alex Janin",
+    "title": "Stand Outside Barefoot for Better Health? 'It Works'...",
+    "description": "Pilots, pro athletes and others try ’grounding’—though don’t step on a bee. ‘I said a couple of bad words to myself.’",
+    "url": "https://www.wsj.com/articles/earthing-grounding-wellness-tiktok-trend-c9d82ca5",
+    "urlToImage": "https://images.wsj.net/im-834253/social",
+    "publishedAt": "2023-08-15T14:31:37Z",
+    "content": "When Sara Jean Meyer got a text from her mom that said, I have a surprise for you, she assumed it would be a free bubble tea. Instead, her mother showed up with a roll of foil tape, a long copper pip… [+138 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Dave Sebastian",
+    "title": "Cosmetics Billionaire Mulls $4.9 Billion-Plus Buyout of L'Occitane",
+    "description": "Key stock indexes in Asia fell Monday",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-14-2023",
+    "urlToImage": "https://images.wsj.net/im-834974/social",
+    "publishedAt": "2023-08-14T09:57:30Z",
+    "content": "The billionaire chairman of L'Occitane International is considering taking full control of the European cosmetics and fragrance brand.\r\nThe company's Hong Kong-listed shares jumped 8.8% on Monday, af… [+366 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jen Murphy",
+    "title": "Doing Pull-Ups Gives Women a Fitness Lift",
+    "description": "As women embrace strength training, executing this \"unicorn exercise\" has become a way for many to show just how strong they are",
+    "url": "https://www.wsj.com/story/doing-pull-ups-gives-women-a-fitness-lift-e9d54c59",
+    "urlToImage": "https://images.wsj.net/im-829278/social",
+    "publishedAt": "2023-08-14T03:41:42Z",
+    "content": "Harrison set herself a goal of doing an unassisted pull-up before she turns 48 this month, and 10 by October.\r\nShe has received dozens of supportive messages since she began posting about pull-ups in… [+9 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "wsj",
+    "title": "Kyiv Steps Up Campaign to Isolate Crimea...",
+    "description": "Kyiv aims to constrict the flow of Russian supplies from the peninsula to the front line as Ukraine’s counteroffensive makes slow progress",
+    "url": "https://www.wsj.com/articles/ukraine-steps-up-campaign-to-isolate-russian-occupied-crimea-b11e4d01",
+    "urlToImage": "https://images.wsj.net/im-834742/social",
+    "publishedAt": "2023-08-12T18:00:02Z",
+    "content": "Ukraine Steps Up Campaign to Isolate Russian-Occupied CrimeaBy and Updated Aug. 12, 2023 1:02 pm ET\r\nUkraine targeted the only bridge linking Crimea to the Russian mainland on Saturday, stepping up a… [+718 chars]"
+    }]}
